@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Tickle'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC9705B9565B49BCA5B371EFA64399AA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4326CB678FF6401FB1AECDF627FB3586 }}
           package: .
